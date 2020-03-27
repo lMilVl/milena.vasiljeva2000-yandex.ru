@@ -17,7 +17,7 @@ Item {
             anchors.centerIn: parent
         }
         Button {
-            id: btm
+            id: btn
             anchors.top: img.bottom
             anchors.horizontalCenter: img.horizontalCenter
             text: "Generate"
