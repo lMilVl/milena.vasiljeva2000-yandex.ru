@@ -6,7 +6,7 @@ Item {
     width: 360
     height: 480
     visible: true
-    property alias btm: btm
+    property alias btn: btn
     property alias img: img
 
     RowLayout {
